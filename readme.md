@@ -1,3 +1,4 @@
 ChatGPT真的是太强大了
 
 利用ChatGPT写一个音乐下载器：music_down
+首先是自己编写了一个爬虫程序，然后利用ChatGPT写了一个pyqt5的界面
